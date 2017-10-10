@@ -28,7 +28,7 @@ public class TestWork {
         
         
         
-        System.out.print(enc.StringDecode("SEE JAVA"));
+        System.out.print(enc.StringDecode("32101230123024244320000133000001"));
         //outputs: SEE JAVA
         
     }
